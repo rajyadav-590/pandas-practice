@@ -37,6 +37,7 @@ The dataset is placed inside the `data/` folder.
 ```
 Pandas-Practice/
 │── pandas_practice.ipynb
+|── pandas_practice.py
 │── README.md
 │── requirements.txt
 │── data/
